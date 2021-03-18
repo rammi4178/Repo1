@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D4A3-6EEB
-
- Directory of C:\Users\nethra\Desktop\Myproject
-
-03/18/2021  09:50 PM    <DIR>          .
-03/18/2021  09:50 PM    <DIR>          ..
-03/18/2021  09:50 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  807,815,311,360 bytes free
+ change 1
